@@ -1,0 +1,1 @@
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\Orders.WindowsApplication\bin\Debug\Orders.WindowsApplication.exe.config

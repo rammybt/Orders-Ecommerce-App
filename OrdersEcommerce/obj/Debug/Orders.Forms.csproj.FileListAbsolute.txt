@@ -1,0 +1,9 @@
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\OrdersEcommerce\bin\Debug\OrdersEcommerce.exe.config
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\OrdersEcommerce\bin\Debug\OrdersEcommerce.exe
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\OrdersEcommerce\bin\Debug\OrdersEcommerce.pdb
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\OrdersEcommerce\obj\Debug\Orders.Forms.csprojResolveAssemblyReference.cache
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\OrdersEcommerce\obj\Debug\OrdersEcommerce.Form1.resources
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\OrdersEcommerce\obj\Debug\OrdersEcommerce.Properties.Resources.resources
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\OrdersEcommerce\obj\Debug\Orders.Forms.csproj.GenerateResource.Cache
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\OrdersEcommerce\obj\Debug\OrdersEcommerce.exe
+c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\OrdersEcommerce\obj\Debug\OrdersEcommerce.pdb
