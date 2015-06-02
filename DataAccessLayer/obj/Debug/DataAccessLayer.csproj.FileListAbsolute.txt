@@ -1,5 +1,0 @@
-c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\DataAccessLayer\bin\Debug\DataAccessLayer.dll
-c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
-c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\DataAccessLayer\obj\Debug\DataAccessLayer.dll
-c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
