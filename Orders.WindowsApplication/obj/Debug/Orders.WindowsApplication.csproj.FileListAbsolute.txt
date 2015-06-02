@@ -1,1 +1,17 @@
 c:\users\email.manoj\documents\visual studio 2013\Projects\OrdersEcommerce\Orders.WindowsApplication\bin\Debug\Orders.WindowsApplication.exe.config
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\Orders.WindowsApplication.exe.config
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\Orders.WindowsApplication.exe
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\Orders.WindowsApplication.pdb
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\Orders.Data.dll
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\Orders.Data.Repository.dll
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\CsvHelper.dll
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\Orders.Data.Repository.pdb
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\Orders.Data.pdb
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\CsvHelper.pdb
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\bin\Debug\CsvHelper.xml
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\obj\Debug\Orders.WindowsApplication.csprojResolveAssemblyReference.cache
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\obj\Debug\Orders.WindowsApplication.Form1.resources
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\obj\Debug\Orders.WindowsApplication.Properties.Resources.resources
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\obj\Debug\Orders.WindowsApplication.csproj.GenerateResource.Cache
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\obj\Debug\Orders.WindowsApplication.exe
+C:\Users\email.manoj\Documents\Visual Studio 2013\Projects\OrdersEcommerce\Orders-Ecommerce\Orders.WindowsApplication\obj\Debug\Orders.WindowsApplication.pdb
