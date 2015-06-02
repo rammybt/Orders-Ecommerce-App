@@ -13,13 +13,18 @@ namespace Orders.Data.Repository
 
         public Repository(CSVContext dataContext, string fileName)
         {
-            DataTable = dataContext.GetTable<T>(fileName);
+            DataTable = dataContext.GetTable<T>(fileName).ToList();
         }
 
         #region Members
         public IEnumerable<T> GetAll()
         {
             return DataTable;
+        }
+
+        public T GetOrderById(string Id)
+        {
+            return (T)DataTable.Where(o => o.ID.Equals(Id)).FirstOrDefault();
         }
 
         #endregion

@@ -39,10 +39,11 @@ namespace Orders.WindowsApplication
         }
 
         List<TreeViewItem> treeViewList = new List<TreeViewItem>();
+
         private void PopulateTreeView(IEnumerable<Order> ordersAll, IEnumerable<OrderDetail> orderDetailAll)
         {
-           
             int cnt = 1;
+
             foreach (var ord in ordersAll)
             {
                 treeViewList.Add(new TreeViewItem()
@@ -50,23 +51,22 @@ namespace Orders.WindowsApplication
                     ParentID = 0,
                     ID = cnt,
                     Text = ord.ID
-                });                
+                });
+
                 foreach (var ordDet in orderDetailAll)
-                {                   
+                {
                     if (ord.ID == ordDet.OrderId)
-                    {                        
+                    {
                         treeViewList.Add(new TreeViewItem()
                         {
                             ParentID = cnt,
-                            ID = cnt + 1 ,
+                            ID = cnt + 1,
                             Text = ordDet.ItemId
                         });
-                        cnt++;
                     }
-                    
                 }
                 cnt++;
-            }           
+            }
             PopulateTreeView(0, null);
         }
 
@@ -84,7 +84,6 @@ namespace Orders.WindowsApplication
                 PopulateTreeView(i.ID, childNode);
             }
         }
-
     }
 
     public class TreeViewItem

@@ -11,5 +11,7 @@ namespace Orders.Data.Repository
     public interface IOrdersDetailRepository
     {
         IEnumerable<OrderDetail> GetAll();
+
+        IEnumerable<OrderDetail> GetOrderDetail(string ordId);
     }
 }

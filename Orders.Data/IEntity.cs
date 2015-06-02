@@ -8,6 +8,6 @@ namespace Orders.Data
 {
     public interface IEntity
     {
-        //int ID { get; }
+        string ID { get; set; }
     }
 }

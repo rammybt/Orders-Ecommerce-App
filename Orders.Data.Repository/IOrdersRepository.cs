@@ -8,8 +8,9 @@ using Orders.Data.Models;
 
 namespace Orders.Data.Repository
 {
-    public interface IOrdersRepository
+    public interface IOrdersRepository 
     {
         IEnumerable<Order> GetAll();
+        Order GetOrderById(string OrderID);
     }
 }

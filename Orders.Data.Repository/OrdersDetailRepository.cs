@@ -13,5 +13,10 @@ namespace Orders.Data.Repository
             : base(dataContext, fileName)
         {
         }
+
+        public virtual IEnumerable<OrderDetail> GetOrderDetail(string ordId)
+        {
+            return (IEnumerable<OrderDetail>)DataTable.Where(od => od.OrderId.Equals(ordId));
+        }
     }
 }

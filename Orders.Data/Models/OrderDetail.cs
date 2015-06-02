@@ -8,6 +8,7 @@ namespace Orders.Data.Models
 {
     public class OrderDetail : IEntity
     {
+        public string ID { get; set; }
         public string OrderId { get; set; }
         public int LineId { get; set; }
 
